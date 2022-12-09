@@ -1,0 +1,19 @@
+html, body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.contaienr {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+
+.carre {
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+}
